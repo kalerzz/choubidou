@@ -1,4 +1,5 @@
 class MyGiantClass
-  def pouet
+  def add a, b
+    return a + b
   end
 end
